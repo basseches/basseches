@@ -1,4 +1,4 @@
-## Hello, world! I'm Ivy.
+## Hey, there! I'm Ivy :herb: 
 
 I'm an undergraduate student at Columbia University SEAS studying computer science. Currently sleepless in the city that never sleeps.
 
