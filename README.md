@@ -1,7 +1,5 @@
 ## Hey, there! I'm Ivy :herb: 
 
-<img width="200" src="ivy.gif">
-
 I'm an undergraduate computer science student at Columbia University SEAS. Currently sleepless in the city that never sleeps.
 
 Languages and tools:
