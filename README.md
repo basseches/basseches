@@ -2,9 +2,6 @@
 
 I'm currently an undergraduate student studying computer science at Columbia University, SEAS.
 
-I’m a big fan of Radiohead and the Mets (unfortunately). In my free time, I
-like to draw and play piano.
-
 ### Languages and tools
 
 <a href="https://skillicons.dev">
