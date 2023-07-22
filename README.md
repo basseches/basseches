@@ -10,6 +10,6 @@ I'm currently an undergraduate student studying computer science at Columbia Uni
 
 ### Social
 
-<a href="https://ivybasseches.myportfolio.com"><img src="https://img.shields.io/badge/website-424242?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://www.linkedin.com/in/ivy-basseches-b957ba19b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.behance.net/ibasseches"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ivy-basseches-b957ba19b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.behance.net/ibasseches"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
 
 You can reach me at imb2139@columbia.edu.
