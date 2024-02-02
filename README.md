@@ -1,6 +1,6 @@
 ## Hey, there! I'm Ivy :herb:
 
-I'm currently an undergraduate student studying computer science at Columbia University, SEAS.
+I'm a recent graduate of Columbia University, SEAS.
 
 ### Languages and tools
 
